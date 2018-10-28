@@ -1,7 +1,9 @@
-# UBC-UpassAutoScript
-**Description:**
-This Script Automatically Requests the UPASS for UBC Students
+<h1 align="center"> UBC-UpassAutoScript </h1>
+<p align="center">
+ This Script Automatically Requests the UPASS for UBC Students
+</p>
 
+<br>
 
 **To get started you should:**
  - Replace ubc_username *(line 23)* & ubc_password *(line 27)* with your real ones.
