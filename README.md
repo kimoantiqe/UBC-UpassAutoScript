@@ -11,4 +11,4 @@
  - Download [Gecko driver](https://github.com/mozilla/geckodriver/releases) 
  - Add Gecko driver's directory location to [windows environment variable's PATH](https://www.howtogeek.com/118594/how-to-edit-your-system-path-for-easy-command-line-access/amp/)
  
->:boom: Quick tip: to fully automate this , you can add this script to your windows task scheduler and set the frequency to monthly .
+:boom: Quick tip: to fully automate this , you can add this script to your windows task scheduler and set the frequency to monthly .
